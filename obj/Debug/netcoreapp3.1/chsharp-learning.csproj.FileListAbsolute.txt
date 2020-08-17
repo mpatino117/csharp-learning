@@ -1,0 +1,12 @@
+/Users/martin/Desktop/chsharp-learning/bin/Debug/netcoreapp3.1/chsharp-learning.deps.json
+/Users/martin/Desktop/chsharp-learning/bin/Debug/netcoreapp3.1/chsharp-learning.runtimeconfig.json
+/Users/martin/Desktop/chsharp-learning/bin/Debug/netcoreapp3.1/chsharp-learning.runtimeconfig.dev.json
+/Users/martin/Desktop/chsharp-learning/bin/Debug/netcoreapp3.1/chsharp-learning.dll
+/Users/martin/Desktop/chsharp-learning/bin/Debug/netcoreapp3.1/chsharp-learning.pdb
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.csprojAssemblyReference.cache
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.AssemblyInfoInputs.cache
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.AssemblyInfo.cs
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.csproj.CoreCompileInputs.cache
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.dll
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.pdb
+/Users/martin/Desktop/chsharp-learning/obj/Debug/netcoreapp3.1/chsharp-learning.genruntimeconfig.cache
